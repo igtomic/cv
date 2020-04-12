@@ -1,4 +1,16 @@
-# cv
+# Igor Tomic
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+ | Education:
+---- | ----------------------------------------
+2015 | M.Sc. in Computer Science: Advanced image processing and vision – UPMC/Télécom ParisTech – Paris
+2011 | Bachelor’s Degree in Computer Science –  Université Pierre et Marie Curie – Paris
+2008 | 2yr Technical Degree in Computer Science – Application Development – High School Turgot – Paris
+
 
 
 Headers
