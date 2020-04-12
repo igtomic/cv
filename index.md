@@ -11,7 +11,7 @@ Content in the first column | Content in the second column
 2011 | Bachelor’s Degree in Computer Science –  Université Pierre et Marie Curie – Paris
 2008 | 2yr Technical Degree in Computer Science – Application Development – High School Turgot – Paris
 
-                 | Professional Experience:
+ | Professional Experience:
  --------------- | ----------------------------------------
 2016 - ?           | HR-TEAM for DOCAPOST – Paris <br> AFP binary files manipulation – C++03, AFP, Visual Studio 2010, Windows and Unix (AIX), GIT, PHP <br> Develop object oriented programs using C++ to manipulate AFP binary files; Handle logging and errors (try/catch); Study AFP architecture; Verify performances and optimize as much as possible; Study feasibility of multi-threading; Write PHP OO scripts for testing ; Study pertinent parts of ISO standards C++03/11, SEI CERT C++ and Google C++ Style Guide; Document code; Debug colleagues’ programs, both C++ and PHP.
 2015 <br> 6 months | IMAGE AND PERVASIVE ACCESS LAB and NUS – Singapore – Master thesis internship <br> Spatial Information using Meretopology – Matlab, FFmpeg, PowerShell, Git, Latex <br> Research project whose goal is to find how to obtain fuzzy object’s spatial disposition on images using mereotopology; Develop a user interface using Matlab that allows to analyse mereotopological relations on real images and guess positions of an object in relation to other objects. <br>
