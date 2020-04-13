@@ -1,11 +1,31 @@
-# Igor Tomic
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
+dddddddddddddd
 
 First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
-     | Education:
+<table>
+    <thead>
+        <tr>
+            <th colspan="2">The table header</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>The table body</td>
+            <td>with two columns</td>
+        </tr>
+    </tbody>
+</table>
+
+x | Education:
 ---- | ----------------------------------------
 2015 | M.Sc. in Computer Science: Advanced image processing and vision – UPMC/Télécom ParisTech – Paris
 2011 | Bachelor’s Degree in Computer Science –  Université Pierre et Marie Curie – Paris
@@ -18,44 +38,3 @@ x | Professional Experience:
 2014 <br> 2 months | BRAIN AND SPINE INSTITUTE – Paris – 1st year Master internship Correlative Light to Electronic Microscopy image registration – Java, ImageJ, Eclipse <br> Analysis of state-of-the-art of correlation of light microscope images to electronic microscope images; Suggest a solution for the given issue and implement the solution as ImageJ/FiJi plugin.
 2008 <br> 2 months | CJVLM – Paris – Internship <br> WEB Development (2 Projects done) – XHTML, PHP, JavaScript, CSS, SQL (MySQL), Merise. <br> Convert an existing static website into a dynamic website with admin interface and a database; Design a database for a youtube/facebook like project.
 
-
-
-
-Headers
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
-Emphasis
-*This text will be italic*
-_This will also be italic_
-
-**This text will be bold**
-__This will also be bold__
-
-_You **can** combine them_
-Lists
-Unordered
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
-Ordered
-1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
-Images
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-Links
-http://github.com - automatic!
-[GitHub](http://github.com)
-Blockquotes
-As Kanye West said:
-
-> We're living the future so
-> the present is our past.
-Inline code
-I think you should use an
-`<addr>` element here instead.
